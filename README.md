@@ -34,4 +34,4 @@ GAMESTATE:SetExternal( 3, math.floor( 1E6 * fracTime ) )
 
 to Jaezmien, I've referenced their code a lot
 
-[Jaezmien](https://github.com/Jaezmien/NotITG-External)
+[Jaezmien/NotITG-External](https://github.com/Jaezmien/NotITG-External)
