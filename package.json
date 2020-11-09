@@ -5,7 +5,9 @@
   "license": "MIT",
   "dependencies": {
     "argv": "^0.0.2",
-    "memoryjs": "^3.2.3",
     "ws": "^7.2.3"
+  },
+  "devDependencies": {
+    "memoryjs": "^3.2.3"
   }
 }
